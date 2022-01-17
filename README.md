@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarathsoundar
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning computer science engineering.
+
 
 
 <!---
